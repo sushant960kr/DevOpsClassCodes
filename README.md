@@ -30,5 +30,4 @@ This Jenkins pipeline automates the process of building, testing, and packaging 
    git clone https://github.com/sushant960kr/DevOpsClassCodes.git
 
 ![Screenshot 2024-09-22 093005](https://github.com/user-attachments/assets/a4d8605c-210d-4577-bad0-4c3c5db312eb)
-![Screenshot 2024-09-22 093045](https://github.com/user-attachments/assets/afb01e12-5b58-4f09-ab75-2f99149bc064)
-![Screenshot 2024-09-22 092841](https://github.com/user-attachments/assets/90afc3ad-fbdb-4bd4-ad1d-b70b229c11a9)
+
